@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This assignment was very challenging for me. Even though I understood the general structure of what we were building ....especially how the scraper was supposed to use Playwright to extract menu data and turn it into a structured CSV file .... I struggled with getting my code to work completely.
+
+Even though I was able to get most of my test cases to pass, the final test that checks the output CSV file kept failing. My tullys_menu.csv file was always empty after so many trial runs
